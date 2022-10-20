@@ -1,14 +1,14 @@
-## Hello World, I'm Gadiel ☺️
+## Hello World, meu nome é Gadiel ☺️
 
-👦 22 years old
+👦 23 anos
 <br />
-📚 Studying at **Driven** and **UFSC**
-<br />
-<br />
-My pronouns: He/Him/His 🏳️‍🌈
+📚 Estudando Desenvolvimento Full Stack na **Driven** e Engenharia Agrônoma na **UFSC**
 <br />
 <br />
-### Languages and Tools:
+Meu pronome é: Ele/Dele 🏳️‍🌈
+<br />
+<br />
+### Linguagens e Ferramentas:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px"
@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-### Contact me:
+### Entre em contato:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 
