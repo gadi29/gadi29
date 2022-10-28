@@ -1,8 +1,8 @@
 ## Olá, meu nome é Gadiel ☺️
 
 <br />
-💻 Desenvolvedor Full Stack pela **Driven Education**
-📚 Engenharia Agrônoma na **UFSC**
+💻 Desenvolvedor Full Stack pela **Driven Education**<br />
+📚 Graduando em Agronomia na **UFSC**
 <br />
 <br />
 Meu pronome é: Ele/Dele 🏳️‍🌈
