@@ -1,8 +1,8 @@
-## Hello World, meu nome é Gadiel ☺️
+## Olá, meu nome é Gadiel ☺️
 
-👦 23 anos
 <br />
-📚 Estudando Desenvolvimento Full Stack na **Driven** e Engenharia Agrônoma na **UFSC**
+💻 Desenvolvedor Full Stack pela **Driven Education**
+📚 Engenharia Agrônoma na **UFSC**
 <br />
 <br />
 Meu pronome é: Ele/Dele 🏳️‍🌈
