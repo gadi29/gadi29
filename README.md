@@ -2,7 +2,7 @@
 
 <br />
 💻 Desenvolvedor Full Stack pela **Driven Education**<br />
-📚 Graduando em Agronomia na **UFSC**
+🎓 Engenheiro Agrônomo pela **UFSC**
 <br />
 <br />
 Meu pronome é: Ele/Dele 🏳️‍🌈
